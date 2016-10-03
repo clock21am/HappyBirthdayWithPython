@@ -23,6 +23,9 @@ Python written script based upated Graph API to like and comment on birthday wis
 
 ```
 
-#[Resources](http://facebook-sdk.readthedocs.io/en/latest/index.html)
-
+#Resources
+[facebook-sdk-guid](http://facebook-sdk.readthedocs.io/en/latest/index.html)
+[Quick-start for python tutorials](http://docs.python-requests.org/en/latest/user/quickstart/#timeouts)
+[facebook Tool access](https://developers.facebook.com/docs/graph-api)
+[Token genrated link](https://developers.facebook.com/tools/explorer/145634995501895/)
  
