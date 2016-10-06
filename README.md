@@ -21,6 +21,8 @@ Python written script based upated Graph API to like and comment on birthday wis
    cd HappyBirthdayWithPython
    python facebooktoken.py
 
+###For importing facebook libraray use this command
+   pip install facebook  
 ```
 
 #Resources
