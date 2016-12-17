@@ -1,7 +1,8 @@
 # Python Happy Birthday script
 
-Python written script based upated Graph API to like and comment on birthday wishes 
+Python written script based on updated Graph API to like and comment on birthday wishes.
 
+ 
 ## Documentation
 
 ```sh
